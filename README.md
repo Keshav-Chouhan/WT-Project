@@ -1,2 +1,2 @@
-# WT-Project
-Portfolio Website
+# Portfolio Website
+Portfolio Website using HTML, CSS, JAVASCRIPT
